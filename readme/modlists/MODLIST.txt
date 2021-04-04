@@ -1,0 +1,49 @@
+# The modpack:
+**OpenComputers with:**  
+&emsp; Computronics  
+&emsp; OCDevices  
+&emsp; OCSensors  
+&emsp; OpenGlasses  
+&emsp; OpenLights  
+&emsp; OpenModularTurrets  
+&emsp; OpenScreens  
+&emsp; OpenPrinter  
+&emsp; OpenPython  
+&emsp; OpenSecurity  
+&emsp; OpenFM  
+
+**Some mods to round off the pack:**  
+&emsp; ArchitectureCraft  
+&emsp; BetterFPS  
+&emsp; ChestTransporter  
+&emsp; Chisel  
+&emsp; ChiselAndBits  
+&emsp; Clipboard  
+&emsp; Comforts    
+&emsp; FTBUtilities  
+&emsp; Gravestone  
+&emsp; IronChest  
+&emsp; LittleTiles  
+&emsp; MalisisDoors  
+&emsp; MmmMmmMmmMmm  
+&emsp; ModernLights  
+&emsp; Morpheus  
+&emsp; Morph-o-Tool  
+&emsp; MouseTweaks  
+&emsp; MultiHotbar  
+&emsp; ProjectRedBase  
+&emsp; ProjectRedCompat  
+&emsp; ProjectRedFabrication  
+&emsp; ProjectRedIntegration  
+&emsp; ProjectRedLighting  
+&emsp; Railcraft  
+&emsp; RetroComputers  
+&emsp; RSGauges  rminal  
+&emsp; and some requirement mods/libarys as well as background mods like BetterFPS.  
+
+**optional:**  
+&emsp; ChunkAnimator  
+&emsp; Jei (of course)  
+&emsp; SoundFilters  
+&emsp; TheOneProbe  
+&emsp; InventoryTweaks  
