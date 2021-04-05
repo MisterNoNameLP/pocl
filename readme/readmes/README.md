@@ -1,6 +1,6 @@
 # ProjectOC light
 ProjectOC light is a lightweight Minecraft modpack with focus on OpenComputers.  
-The pack is designed for our public server, but can be used standalone too.
+The pack is designed for our public creative server, but can be used standalone too.
 
 On our server you have the possibility to access your OC disks using an FTP connection. This way you can code directly on the server using your preferred editor/IDE.
 
